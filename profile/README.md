@@ -78,10 +78,10 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 | 팀원 | 사진 | 역할 |
 |---|---|---|
 | 진명인 | <img src="https://avatars.githubusercontent.com/myeonginjin" alt="진명인" width="100"> | <ul><li>아키텍처·인프라</li></ul> |
-| 두재정 | <img src="https://avatars.githubusercontent.com/gbtwld" alt="두재정" width="100"> | <ul><li>RAG 워크플로우 설계</li><li>QA</li></ul> |
+| 두재정 | <img src="https://avatars.githubusercontent.com/gbtwld" alt="두재정" width="100"> | <ul><li>Agent 워크플로우 설계</li><li>QA</li></ul> |
 | 임지민 | <img src="https://avatars.githubusercontent.com/lim99jimin" alt="임지민" width="100"> | <ul><li>프론트엔드 개발</li></ul> |
-| 허건호 | <img src="https://avatars.githubusercontent.com/heogeonho" alt="허건호" width="100"> | <ul><li>백엔드 개발</li></ul> |
-| 이서연 | <img src="https://avatars.githubusercontent.com/Rekite" alt="이서연" width="100"> | <ul><li>백엔드 개발</li></ul> |
+| 허건호 | <img src="https://avatars.githubusercontent.com/heogeonho" alt="허건호" width="100"> | <ul><li>API 서버 개발</li></ul> |
+| 이서연 | <img src="https://avatars.githubusercontent.com/Rekite" alt="이서연" width="100"> | <ul><li>배치 서버 개발</ul> |
 | 이영서 | <img src="./assets/youngseo.png" alt="이영서" width="100"> | <ul><li>기획</li></ul> |
 
 </div>
