@@ -42,31 +42,42 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 ![ESLint](https://img.shields.io/badge/ESLint-9.39-4B32C3?logo=eslint&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/Node.js-%3E%3D20-339933?logo=nodedotjs&logoColor=ffffff)
 
-### 🧠 Backend (TBD)
+### 🧠 Backend 
 
-- **Backend**: _(예: Spring Boot, JPA, MySQL 등 — 팀 정보에 맞게 입력)_
-- **API 문서**: `docs/API_명세서.md` (프로젝트 기준)
-
-### ☁️ Infra/DevOps (TBD)
-
-- _(예: AWS, Docker, GitHub Actions, Nginx 등 — 팀 정보에 맞게 입력)_
-
-
-## 🖼️ 데모 / 스크린샷
-
-![image]()  
-<!-- ↑ 핵심 플로우 GIF (캠페인 생성 → 메시지 생성 → 발송 설정) -->
-
-![image]()  
-<!-- ↑ 주요 화면 스크린샷 (대시보드/리스트/상세 등) -->
-
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
 ## 🧱 아키텍처
+<img width="10520" height="4456" alt="aketer_아키텍처" src="https://github.com/user-attachments/assets/46a634bb-9625-41e2-b884-f8dc054e6fb5" />
 
-![image]()  
-<!-- ↑ 시스템 아키텍처 다이어그램 (FE ↔ BE ↔ AI/DB 등) -->
+## ⚙️ 주요 기능 DFD
+<img width="14080" height="5000" alt="유저클러스터링" src="https://github.com/user-attachments/assets/5b90ffba-c4ce-4646-ab1c-b785b6f69a71" /> <br><br><br>
+<img width="10048" height="5116" alt="추천아이템매칭" src="https://github.com/user-attachments/assets/c98b2783-7c20-4974-bd21-17bb7a9aa58b" /> <br><br><br>
+<img width="16028" height="5116" alt="메시지생성" src="https://github.com/user-attachments/assets/cd5b3397-adb7-4d91-8856-ace99b382026" />
 
 
-## 🤝 팀 정보
+## 👥 팀원 소개
+|                                              [🐈 진명인](https://github.com/myeonginjin)                                               |                                              [🐳 두재정](https://github.com/gbtwld)                                               |                                               [🌱 임지민](https://github.com/lim99jimin)                                                |
+| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/myeonginjin"> <img src="https://avatars.githubusercontent.com/myeonginjin" width=200px alt="_"/> </a> | <a href="https://github.com/alexization"> <img src="https://avatars.githubusercontent.com/alexization" width=200px alt="_"/> </a> | <a href="https://github.com/sapientia1007"> <img src="https://avatars.githubusercontent.com/sapientia1007" width=200px alt="_"/> </a> |
+|                                                               백엔드                                                                |                                                            백엔드                                                             |                                                              백엔드                                                               |
+|                                                 팀원들이 보는 명인은                                                                    |                                                       팀원들이 보는 효석은                                                        |                                                         팀원들이 보는 지혜는                                                        |
+| 🕵 이슈의 해결책을 찾아내는 탐구가 <br/> 👩‍💻 맡은 일은 끝까지! 신뢰형 개발자 <br/> 🚨 한번 시작한 일은 끝을 보는 불도저 <br/> 😤 열정 가득, 엉덩이가 무거운 개발자|🤩 CS부터 파고들고 활용하는 개발자<br/>🤔 코드 하나하나 고민하는 찐 개발자<br/>🧹 리펙토링은 나에게, 최적화의 달인<br/>🥘 기본에 충실한 국밥 개발자|🤓 너무 꼼꼼하고 철저한 변태 개발자 <br />📑 문서 정리 끝판왕, 개발 문서 달인 <br/> 😏 꼼꼼함과 효율성을 겸비한 개발자 <br />😁 답답한건 싫은 효율 끝판왕 개발자|
 
-### 👥 팀원 및 역할
+<br />
+<br />
+
+## 🔨 작업 및 역할 분담
+<div align=center>
+  
+| 팀원  | 사진 | 역할 |
+|-----------------|-----------------|-----------------|
+| 진명인   |  <img src="https://avatars.githubusercontent.com/myeonginjin" alt="진명인" width="100"> | <ul><li>아키텍처·인프라</li><ul>
+| 두재정   |  <img src="https://avatars.githubusercontent.com/gbtwld" alt="두재정" width="100">| <ul><li>RAG 워크플로우 설계</li><li>QA</li> |
+| 임지민   |  <img src="https://avatars.githubusercontent.com/lim99jimin" alt="임지민" width="100">    |<ul><li>화면 개발<li></ul>
+
