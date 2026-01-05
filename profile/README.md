@@ -62,22 +62,27 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 
 
 ## 👥 팀원 소개
-|                                              [🐈 진명인](https://github.com/myeonginjin)                                               |                                              [🐳 두재정](https://github.com/gbtwld)                                               |                                               [🌱 임지민](https://github.com/lim99jimin)                                                |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/myeonginjin"> <img src="https://avatars.githubusercontent.com/myeonginjin" width=200px alt="_"/> </a> | <a href="https://github.com/alexization"> <img src="https://avatars.githubusercontent.com/gbtwld" width=200px alt="_"/> </a> | <a href="https://github.com/sapientia1007"> <img src="https://avatars.githubusercontent.com/lim99jimin" width=200px alt="_"/> </a> |
-|                                                               백엔드                                                                |                                                            백엔드                                                             |                                                              백엔드                                                               |
-|                                                 팀원들이 보는 명인은                                                                    |                                                       팀원들이 보는 재정은                                                        |                                                         팀원들이 보는 지민은                                                        |
-| 🕵 이슈의 해결책을 찾아내는 탐구가 <br/> 👩‍💻 맡은 일은 끝까지! 신뢰형 개발자 <br/> 🚨 한번 시작한 일은 끝을 보는 불도저 <br/> 😤 열정 가득, 엉덩이가 무거운 개발자|🤩 CS부터 파고들고 활용하는 개발자<br/>🤔 코드 하나하나 고민하는 찐 개발자<br/>🧹 리펙토링은 나에게, 최적화의 달인<br/>🥘 기본에 충실한 국밥 개발자|🤓 너무 꼼꼼하고 철저한 변태 개발자 <br />📑 문서 정리 끝판왕, 개발 문서 달인 <br/> 😏 꼼꼼함과 효율성을 겸비한 개발자 <br />😁 답답한건 싫은 효율 끝판왕 개발자|
+| [🐈 진명인](https://github.com/myeonginjin) | [🐳 두재정](https://github.com/gbtwld) | [🌱 임지민](https://github.com/lim99jimin) | [🦊 허건호](https://github.com/heogeonho) | [🦄 이서연](https://github.com/Rekite) |
+| :---: | :---: | :---: | :---: | :---: |
+| <a href="https://github.com/myeonginjin"><img src="https://avatars.githubusercontent.com/myeonginjin" width="200px" alt="myeonginjin"/></a> | <a href="https://github.com/gbtwld"><img src="https://avatars.githubusercontent.com/gbtwld" width="200px" alt="gbtwld"/></a> | <a href="https://github.com/lim99jimin"><img src="https://avatars.githubusercontent.com/lim99jimin" width="200px" alt="lim99jimin"/></a> | <a href="https://github.com/heogeonho"><img src="https://avatars.githubusercontent.com/heogeonho" width="200px" alt="heogeonho"/></a> | <a href="https://github.com/Rekite"><img src="https://avatars.githubusercontent.com/Rekite" width="200px" alt="Rekite"/></a> |
+| 백엔드 | 백엔드 | 백엔드 | 백엔드 | 백엔드 |
+| 팀원들이 보는 명인은 | 팀원들이 보는 재정은 | 팀원들이 보는 지민은 | 팀원들이 보는 건호는 | 팀원들이 보는 서연은 |
+| 🕵 이슈의 해결책을 찾아내는 탐구가 <br/> 👩‍💻 맡은 일은 끝까지! 신뢰형 개발자 <br/> 🚨 한번 시작한 일은 끝을 보는 불도저 <br/> 😤 열정 가득, 엉덩이가 무거운 개발자 | 🤩 CS부터 파고들고 활용하는 개발자<br/>🤔 코드 하나하나 고민하는 찐 개발자<br/>🧹 리펙토링은 나에게, 최적화의 달인<br/>🥘 기본에 충실한 국밥 개발자 | 🤓 너무 꼼꼼하고 철저한 변태 개발자 <br />📑 문서 정리 끝판왕, 개발 문서 달인 <br/> 😏 꼼꼼함과 효율성을 겸비한 개발자 <br />😁 답답한건 싫은 효율 끝판왕 개발자 | 🧠 문제를 구조적으로 쪼개 해결하는 개발자 <br/> 🛠️ 안정성과 성능을 함께 챙기는 개발자 <br/> 🔍 디테일에 강하고 꾸준히 개선하는 개발자 <br/> 🤝 팀을 편하게 만드는 소통형 개발자 | ✨ 사용자 경험까지 고려하는 개발자 <br/> 🧩 복잡한 요구사항도 깔끔히 정리하는 개발자 <br/> 🔥 책임감 있게 끝까지 마무리하는 개발자 <br/> 🌿 분위기를 밝게 만드는 긍정 에너지 개발자 |
 
 <br />
 <br />
 
 ## 🔨 작업 및 역할 분담
 <div align=center>
-  
-| 팀원  | 사진 | 역할 |
-|-----------------|-----------------|-----------------|
-| 진명인   |  <img src="https://avatars.githubusercontent.com/myeonginjin" alt="진명인" width="100"> | <ul><li>아키텍처·인프라</li><ul>
-| 두재정   |  <img src="https://avatars.githubusercontent.com/gbtwld" alt="두재정" width="100">| <ul><li>RAG 워크플로우 설계</li><li>QA</li> |
-| 임지민   |  <img src="https://avatars.githubusercontent.com/lim99jimin" alt="임지민" width="100">    |<ul><li>화면 개발</li></ul>
+
+| 팀원 | 사진 | 역할 |
+|---|---|---|
+| 진명인 | <img src="https://avatars.githubusercontent.com/myeonginjin" alt="진명인" width="100"> | <ul><li>아키텍처·인프라</li></ul> |
+| 두재정 | <img src="https://avatars.githubusercontent.com/gbtwld" alt="두재정" width="100"> | <ul><li>RAG 워크플로우 설계</li><li>QA</li></ul> |
+| 임지민 | <img src="https://avatars.githubusercontent.com/lim99jimin" alt="임지민" width="100"> | <ul><li>화면 개발</li></ul> |
+| 허건호 | <img src="https://avatars.githubusercontent.com/heogeonho" alt="허건호" width="100"> | <ul><li>백엔드 개발</li></ul> |
+| 이서연 | <img src="https://avatars.githubusercontent.com/Rekite" alt="이서연" width="100"> | <ul><li>백엔드 개발</li></ul> |
+
+</div>
+
 
