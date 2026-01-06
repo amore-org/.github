@@ -60,6 +60,8 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 <img width="10048" height="5116" alt="추천아이템매칭" src="https://github.com/user-attachments/assets/c98b2783-7c20-4974-bd21-17bb7a9aa58b" /> <br><br><br>
 <img width="16028" height="5116" alt="메시지생성" src="https://github.com/user-attachments/assets/cd5b3397-adb7-4d91-8856-ace99b382026" />
 
+<br />
+<br />
 
 ## 👥 팀원 소개
 | [🐈 진명인](https://github.com/myeonginjin) | [🐳 두재정](https://github.com/gbtwld) | [🌱 임지민](https://github.com/lim99jimin) | [🦊 허건호](https://github.com/heogeonho) | [🦄 이서연](https://github.com/Rekite) | 🧩 이영서 |
