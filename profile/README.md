@@ -52,6 +52,8 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
+<br />
+
 ## 🧱 아키텍처
 <img width="10520" height="4456" alt="aketer_아키텍처" src="https://github.com/user-attachments/assets/46a634bb-9625-41e2-b884-f8dc054e6fb5" />
 
@@ -64,7 +66,6 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 <img width="16028" height="5116" alt="메시지생성" src="https://github.com/user-attachments/assets/cd5b3397-adb7-4d91-8856-ace99b382026" />
 
 <br />
-<br />
 
 ## 👥 팀원 소개
 | [🐈 진명인](https://github.com/myeonginjin) | [🐳 두재정](https://github.com/gbtwld) | [🌱 임지민](https://github.com/lim99jimin) | [🦊 허건호](https://github.com/heogeonho) | [🦄 이서연](https://github.com/Rekite) | 🧩 이영서 |
@@ -75,19 +76,18 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 | 🕵 이슈의 해결책을 찾아내는 탐구가 <br/> 👩‍💻 맡은 일은 끝까지! 신뢰형 개발자 <br/> 🚨 한번 시작한 일은 끝을 보는 불도저 <br/> 😤 열정 가득, 엉덩이가 무거운 개발자 | 🤩 CS부터 파고들고 활용하는 개발자<br/>🤔 코드 하나하나 고민하는 찐 개발자<br/>🧹 리펙토링은 나에게, 최적화의 달인<br/>🥘 기본에 충실한 국밥 개발자 | 🎨 UI 디테일을 살리는 프론트 개발자 <br/> ⚡ 사용성/성능까지 챙기는 개발자 <br/> 🧠 흐름을 정리해서 구현하는 개발자 <br/> 😄 협업이 편한 소통형 개발자 | 🧠 문제를 구조적으로 쪼개 해결하는 개발자 <br/> 🛠️ 안정성과 성능을 함께 챙기는 개발자 <br/> 🔍 디테일에 강하고 꾸준히 개선하는 개발자 <br/> 🤝 팀을 편하게 만드는 소통형 개발자 | ✨ 사용자 경험까지 고려하는 개발자 <br/> 🧩 복잡한 요구사항도 깔끔히 정리하는 개발자 <br/> 🔥 책임감 있게 끝까지 마무리하는 개발자 <br/> 🌿 분위기를 밝게 만드는 긍정 에너지 개발자 | 🧭 요구사항을 명확히 정리하는 기획자 <br/> 🗂️ 일정/우선순위를 잡아주는 조율자 <br/> 🔎 사용자를 기준으로 판단하는 기획자 <br/> 🤝 개발이 편해지는 소통형 기획자 |
 
 <br />
-<br />
 
 ## 🔨 작업 및 역할 분담
 <div align=center>
 
 | 팀원 | 사진 | 역할 |
 |---|---|---|
-| 진명인 | <img src="https://avatars.githubusercontent.com/myeonginjin" alt="진명인" width="100"> | <ul><li>아키텍처·인프라</li></ul> |
-| 두재정 | <img src="https://avatars.githubusercontent.com/gbtwld" alt="두재정" width="100"> | <ul><li>Agent 워크플로우 설계</li><li>QA</li></ul> |
-| 임지민 | <img src="https://avatars.githubusercontent.com/lim99jimin" alt="임지민" width="100"> | <ul><li>프론트엔드 개발</li></ul> |
-| 허건호 | <img src="https://avatars.githubusercontent.com/heogeonho" alt="허건호" width="100"> | <ul><li>API 서버 개발</li></ul> |
-| 이서연 | <img src="https://avatars.githubusercontent.com/Rekite" alt="이서연" width="100"> | <ul><li>배치 서버 개발</ul> |
-| 이영서 | <img src="./assets/youngseo.png" alt="이영서" width="100"> | <ul><li>기획</li></ul> |
+| 진명인 | <img src="https://avatars.githubusercontent.com/myeonginjin" alt="진명인" width="100"> | <ul><li>아키텍처·인프라</li> <li>Agent 워크플로우 설계</li></ul> |
+| 두재정 | <img src="https://avatars.githubusercontent.com/gbtwld" alt="두재정" width="100"> | <ul><li>LangGraph 설계</li> <li>QA</li></ul> |
+| 임지민 | <img src="https://avatars.githubusercontent.com/lim99jimin" alt="임지민" width="100"> | <ul><li>플랫폼 디자인</li> <li>플랫폼 화면 구현</li> </ul> |
+| 허건호 | <img src="https://avatars.githubusercontent.com/heogeonho" alt="허건호" width="100"> | <ul><li>API 구현</li> <li>LangGarph 적합성 노드 구현</li></ul> |
+| 이서연 | <img src="https://avatars.githubusercontent.com/Rekite" alt="이서연" width="100"> | <ul><li>배치 서버 개발</li> <li>LangGarph 문서 탐색 노드 구현</li> </ul> |
+| 이영서 | <img src="./assets/youngseo.png" alt="이영서" width="100"> | <ul><li>사업 기획</li> <li>플랫폼 기획</li></ul> |
 
 </div>
 
