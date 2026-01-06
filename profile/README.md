@@ -1,4 +1,4 @@
-# AI Agent CRM 마케팅 메시지 솔루션 A'Keter
+# AI Agent CRM 마케팅 메시지 솔루션 A'KETER
 
 > **AI CRM 마케팅 에이전트(AI + CRM Marketer)** — 고객 데이터를 바탕으로 **캠페인 설계 → 메시지 생성 → 최적 발송 시점 설정 → 발송 실행**까지 한 흐름으로 자동화합니다.
 
