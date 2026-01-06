@@ -52,7 +52,6 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
-<br />
 
 ## 🧱 아키텍처
 <img width="10520" height="4456" alt="aketer_아키텍처" src="https://github.com/user-attachments/assets/46a634bb-9625-41e2-b884-f8dc054e6fb5" />
