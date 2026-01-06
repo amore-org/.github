@@ -44,7 +44,7 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 
 ### 🧠 Backend 
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
@@ -54,6 +54,9 @@ CRM 마케팅의 목표는 **고객 한 사람 한 사람에게 “지금 이 �
 
 ## 🧱 아키텍처
 <img width="10520" height="4456" alt="aketer_아키텍처" src="https://github.com/user-attachments/assets/46a634bb-9625-41e2-b884-f8dc054e6fb5" />
+
+<br />
+<br />
 
 ## ⚙️ 주요 기능 DFD
 <img width="14080" height="5000" alt="유저클러스터링" src="https://github.com/user-attachments/assets/5b90ffba-c4ce-4646-ab1c-b785b6f69a71" /> <br><br><br>
